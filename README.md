@@ -33,8 +33,8 @@ Gobuster: For high-speed directory and file brute-forcing.
 
 📦 Installation & Usage
 Bash
- Clone the repository
-git clone https://github.com/mrtommy4/AutoDetect-Recon/blob/main/AutoDetect-Recon.sh
+
+Download or copy AutoDetect-Recon.sh
 
  Navigate to the directory
 cd AutoDetect-Recon
