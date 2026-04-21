@@ -3,6 +3,7 @@ Auto Detect is an automated Bash script designed to drastically simplify and acc
 
 Instead of manually running dozens of individual commands, this tool orchestrates industry-standard tools into a single interactive interface, allowing you to selectively deploy modules based on the target's context.
 
+
 ✨ Key Features
 Interactive Modularity: Toggle specific modules (Nmap, Nikto, Gobuster) via simple (y/n) prompts.
 
@@ -13,6 +14,7 @@ Professional Logging: Every session generates a dedicated .txt report in the /re
 ANSI Log Cleaning: Reports are automatically stripped of ANSI color codes, making them perfectly readable in any text editor (Notepad, Leafpad, etc.).
 
 Passive Subdomain Discovery: Integrates with crt.sh to extract subdomains via SSL certificates without directly interacting with the target server.
+
 
 🛠️ Built-in Toolset
 The suite leverages the power of these essential security tools:
