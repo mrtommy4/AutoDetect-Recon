@@ -105,4 +105,3 @@ echo -e "\n${YELLOW}==============================================${NC}"
 echo -e "${YELLOW}  SCAN FINISHED!                              ${NC}"
 echo -e "${YELLOW}  Check the file: $LOGFILE                   ${NC}"
 echo -e "${YELLOW}==============================================${NC}"
-```
